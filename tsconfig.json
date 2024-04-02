@@ -21,6 +21,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/LinePlot.jsx", "src/app/components/LineChart.jsx", "src/app/page.jsx", "src/app/components/LineChart.jsx", "src/app/components/LineChart.jsx", "src/app/components/Axis.jsx"],
   "exclude": ["node_modules"]
 }
